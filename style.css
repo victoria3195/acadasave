@@ -1,0 +1,27 @@
+/* ,navbar{
+    background-color: #372b7ae1;
+} */
+
+.nav-link{
+    color:  #222 !important;
+}
+
+/* styling button*/
+.btn-log, .btn-sign{
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.btn-sign{
+    padding: 7px 25px ;
+    background: #372b7ae1 ;
+    color: #e4e2e2ed;
+    border-radius: 6px;
+}
+
+.btn-sign:hover{
+    background: #5a48c5e1;
+}
